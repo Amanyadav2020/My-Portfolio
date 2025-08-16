@@ -1,0 +1,59 @@
+/* src/components/Experience.css */
+.experience-section {
+    padding: 60px 20px;
+    max-width: 90vw;
+    margin: 0 auto;
+    background: #fff;
+    text-align: left;
+    border-radius: 20px;
+  }
+  
+  .experience-section h2 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 40px;
+    color: #333;
+  }
+  
+  .experience-card {
+    margin-bottom: 40px;
+    padding: 20px;
+    border-left: 4px solid #007bff;
+    background-color: #f9f9f9;
+    border-radius: 6px;
+  }
+  
+  .experience-card h3 {
+    margin: 0;
+    font-size: 22px;
+    color: #222;
+  }
+  
+  .role {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .date-location {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 15px;
+  }
+  
+  .project-title {
+    font-style: italic;
+    font-weight: bold;
+    color: #444;
+    margin-bottom: 10px;
+  }
+  
+  .experience-card ul {
+    padding-left: 20px;
+  }
+  
+  .experience-card li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  

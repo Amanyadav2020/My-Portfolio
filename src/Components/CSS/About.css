@@ -1,0 +1,27 @@
+/* src/components/About.css */
+.about-section {
+    height: 100%;
+    padding: 60px 30px;
+    max-width: 93vw;
+    margin: 0 auto; 
+    background: #fff;
+    text-align: left;
+    border-radius: 20px;
+  }
+  
+  .about-section h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #333;
+    text-align: center;
+  }
+  
+  .about-section p {
+    color: #555;
+    margin-bottom: 20px;
+  }
+  @media screen and (max-width: 768px) {
+    .about-section {
+      padding-bottom: 50px;
+    }
+  }
