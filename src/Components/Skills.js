@@ -62,7 +62,7 @@ const skills = [
   },
   {
     name: "Entity Framework Core",
-    image: "/images/efcore.png",
+    image: "/efcore.png",
     description: "Object-relational mapper for .NET."
   },
   {
@@ -77,7 +77,7 @@ const skills = [
   },
   {
     name: "LINQ",
-    image: "/images/linq.png",
+    image: "/linq.png",
     description: "Query syntax in C# for working with data."
   },
   {
