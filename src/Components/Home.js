@@ -12,7 +12,6 @@ const Home = () => {
         <a href="https://www.linkedin.com/in/aman-yadav-b63147216/" target="_blank" rel="noreferrer">
           <FaLinkedin size={24} />
         </a>
-        
         <a href="mailto:yadav200289@gmail.com">
           <FaEnvelope size={24} />
         </a>
